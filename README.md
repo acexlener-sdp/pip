@@ -14,12 +14,9 @@ Kesalahan: <strong>externally-managed-environment</strong> terjadi ketika manaje
 ```bash
 python3 -m venv ~/py_envs
 source ~/py_envs/bin/activate
-```
-<p>Opsional</p>
-
-```bash
 python3 -m pip install xyz
 ```
+
 
 ### 2. Install Paksa
 <p>
